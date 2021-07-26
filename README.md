@@ -1,4 +1,4 @@
-# Aplicação .Net WebApp com Redis.
+# Aplicação AspNet com Redis.
 
 Aplicativo desenvolvido utilizando AspNet Core 5.0 com conexão com o Redis.
 
